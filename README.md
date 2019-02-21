@@ -15,7 +15,7 @@ a = np.array([1,2,3],
              [4,5,6])
 ```
 label for **label**   
-class id | class name  
----|---|  
-0|background  
-1|plane  
+class id | class name | display 
+---|---|---  
+0|background|true    
+1|plane|true  
