@@ -14,7 +14,7 @@ import numpy as np
 a = np.array([1,2,3],
              [4,5,6])
 ```
-label for **label**   
+label for **label**  
 class id | class name | display  
 ---|---|---  
 0|background|true  
