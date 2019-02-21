@@ -23,5 +23,5 @@ class id | class name | display
 
 * Chapter 1:  
   * 1.1: A first look at a neural network  
-    1.1.1: graph  
+    * 1.1.1: graph  
     
