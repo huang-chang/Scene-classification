@@ -16,6 +16,6 @@ a = np.array([1,2,3],
 ```
 label for **label**  
 class id | class name | display  
----|---|---  
+---|---|---|  
 0|background|true  
 1|plane|true  
